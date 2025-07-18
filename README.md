@@ -128,7 +128,7 @@ width="800"  height="2">
 <a href="https://twitter.com/tsungkang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsungkang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tsungkang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsungkang" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4997673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4997673" height="30" width="40" /></a>
-<a href="/https://csharp.love/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://csharp.love/feed/" height="30" width="40" /></a>
+<a href="https://csharp.love/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://csharp.love/feed/" height="30" width="40" /></a>
 </p>
 
 ---
