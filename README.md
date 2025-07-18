@@ -137,6 +137,8 @@ width="800"  height="2">
 
 <div align="center">
 
+[![snk](./assets/github-user-contribution.svg)](https://raw.githubusercontent.com/tkyu/tkyu/master/assets/github-user-contribution.svg)
+
 [![tkyu's github stats](https://github-readme-stats.vercel.app/api?username=tkyu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api?username=tkyu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)[![mainlang](https://github-readme-stats.vercel.app/api/top-langs/?username=tkyu&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=tkyu&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 ![](https://github-profile-trophy.vercel.app/?username=tkyu)
