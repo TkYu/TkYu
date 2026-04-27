@@ -15,9 +15,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=600&height=60&lines=Now+is+better+than+never.+Although+never+is+often+better+than+right+now.)](https://git.io/typing-svg)
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
-width="800"  height="2">
-
 </div>
 
 <h3 align="center">A full-stack developer and open-source enthusiast with a decade of hands-on experience in building scalable systems, optimizing infrastructure, and solving real-world problems through code. My career spans backend development, DevOps automation, and technical leadership, driven by a relentless curiosity for emerging technologies and a passion for clean, maintainable architecture.</h3>
@@ -31,7 +28,7 @@ width="800"  height="2">
 
 - 💬 Ask me about **.NET Core & Linux**
 
-- 📫 How to reach me **yosokosc@gmail.com**
+- 📫 How to reach me **yosokosc@gmail.com** or **admin@ccc.xxx**
 
 - ⚡ Fun fact **I love .NET and Linux**
 
@@ -78,37 +75,37 @@ width="800"  height="2">
 
 **Languages and Frameworks**
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" /></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" /></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" /></code>
 
 
 **Tools and Environments**
 
-<code><img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></code>
-<code><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA" width="30" height="30" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30" /></code>
-<code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30" /></code>
-<code><img src="https://img.icons8.com/?size=50&id=epZz7YMDqqwA&format=png&color=000000" alt="GitLab" width="30" height="30" /></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" /></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA" /></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" /></code>
+<code><img height="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" /></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" /></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" /></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" /></code>
+<code><img height="30" src="https://img.icons8.com/?size=50&id=epZz7YMDqqwA&format=png&color=000000" alt="GitLab" /></code>
 
 <br>
 
@@ -125,10 +122,10 @@ width="800"  height="2">
 
 <h3 align="left">📨 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tsungkang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsungkang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tsungkang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsungkang" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4997673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4997673" height="30" width="40" /></a>
-<a href="https://csharp.love/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://csharp.love/feed/" height="30" width="40" /></a>
+<a href="https://twitter.com/tsungkang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsungkang" height="30" /></a>
+<a href="https://linkedin.com/in/tsungkang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsungkang" height="30" /></a>
+<a href="https://stackoverflow.com/users/4997673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4997673" height="30" /></a>
+<a href="https://csharp.love/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://csharp.love/feed/" height="30" /></a>
 </p>
 
 ---
@@ -140,7 +137,5 @@ width="800"  height="2">
 [![snk](./assets/github-user-contribution.svg)](https://raw.githubusercontent.com/tkyu/tkyu/master/assets/github-user-contribution.svg)
 
 [![tkyu's github stats](https://github-readme-stats.vercel.app/api?username=tkyu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api?username=tkyu&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en)[![mainlang](https://github-readme-stats.vercel.app/api/top-langs/?username=tkyu&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en)](https://github-readme-stats.vercel.app/api/top-langs/?username=tkyu&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-![](https://github-profile-trophy.vercel.app/?username=tkyu)
 </div>
 
